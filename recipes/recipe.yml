@@ -26,6 +26,7 @@ modules:
       # - starship
       - mullvad-vpn
       - sublime-text
+      - https://launchpad.net/veracrypt/trunk/1.26.7/+download/veracrypt-1.26.7-CentOS-8-x86_64.rpm
     remove:
       # example: removing firefox (in favor of the flatpak)
       # "firefox" is the main package, "firefox-langpacks" is a dependency
